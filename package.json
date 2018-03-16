@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "ember-cli-stylelint": "^1.4.0",
     "stylelint-config-standard": "^18.2.0"
   }
 }
